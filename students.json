@@ -1,0 +1,62 @@
+{
+    "1": {
+        "name": "Aniruddha Garai",
+        "email": "aniruddha@example.com",
+        "age": 24,
+        "course": "MCA"
+    },
+    "2": {
+        "name": "Rahul Sharma",
+        "email": "rahul@example.com",
+        "age": 22,
+        "course": "BCA"
+    },
+    "3": {
+        "name": "Priya Singh",
+        "email": "priya@example.com",
+        "age": 23,
+        "course": "MCA"
+    },
+    "4": {
+        "name": "Amit Kumar",
+        "email": "amit@example.com",
+        "age": 21,
+        "course": "B.Tech"
+    },
+    "5": {
+        "name": "Sneha Roy",
+        "email": "sneha@example.com",
+        "age": 24,
+        "course": "M.Sc"
+    },
+    "6": {
+        "name": "Rohan Das",
+        "email": "rohan@example.com",
+        "age": 25,
+        "course": "MCA"
+    },
+    "7": {
+        "name": "Neha Verma",
+        "email": "neha@example.com",
+        "age": 22,
+        "course": "BCA"
+    },
+    "8": {
+        "name": "Arjun Patel",
+        "email": "arjun@example.com",
+        "age": 23,
+        "course": "B.Tech"
+    },
+    "9": {
+        "name": "Kavya Nair",
+        "email": "kavya@example.com",
+        "age": 24,
+        "course": "MCA"
+    },
+    "10": {
+        "name": "Vikram Singh",
+        "email": "vikram@example.com",
+        "age": 26,
+        "course": "MBA"
+    }
+}
