@@ -1,0 +1,56 @@
+{
+  "101": {
+    "id": 101,
+    "name": "Wireless Ergonomic Mouse",
+    "category": "Electronics",
+    "price": 49.99,
+    "stock": 120,
+    "rating": 4.5,
+    "is_available": true
+  },
+  "102": {
+    "id": 102,
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Electronics",
+    "price": 89.99,
+    "stock": 0,
+    "rating": 4.8,
+    "is_available": false
+  },
+  "103": {
+    "id": 103,
+    "name": "Standing Desk Converter",
+    "category": "Furniture",
+    "price": 199.50,
+    "stock": 15,
+    "rating": 4.2,
+    "is_available": true
+  },
+  "104": {
+    "id": 104,
+    "name": "Noise Canceling Headphones",
+    "category": "Electronics",
+    "price": 299.00,
+    "stock": 45,
+    "rating": 4.7,
+    "is_available": true
+  },
+  "105": {
+    "id": 105,
+    "name": "Ergonomic Mesh Mesh Chair",
+    "category": "Furniture",
+    "price": 150.00,
+    "stock": 8,
+    "rating": 3.9,
+    "is_available": true
+  },
+  "106": {
+    "id": 106,
+    "name": "Wooden Chair",
+    "category": "Furniture",
+    "price": 100.00,
+    "stock": 2,
+    "rating": 3.5,
+    "is_available": true
+  }
+}
